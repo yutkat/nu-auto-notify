@@ -1,0 +1,7 @@
+{
+    name: nu-auto-notify
+    type: module
+    version: "0.1.0"
+    description: "Desktop notifications for long-running commands in Nushell."
+    license: "LICENSE"
+}
