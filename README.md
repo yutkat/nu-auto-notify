@@ -16,7 +16,13 @@ module that installs a `pre_execution` and a `pre_prompt` hook and calls
 
 ## Install
 
-Clone the repository, then add to your `config.nu`:
+Clone the repository:
+
+```sh
+git clone https://github.com/yutkat/nu-auto-notify.git /path/to/nu-auto-notify
+```
+
+then add to your `config.nu`:
 
 ```nu
 use /path/to/nu-auto-notify/nu-auto-notify
